@@ -4,6 +4,7 @@ Mel Bot adalah fake bot yang dapat menemani kamu yang lagi kesepian. Mel Bot ini
 
 # Teknologi
 
+HTML <br>
 CSS <br>
 Vanilla JavaScript
 

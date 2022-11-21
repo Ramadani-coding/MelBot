@@ -7,8 +7,8 @@ const botSay = (data) => {
   return [
     "Haiii... Perkenalkan nama Aku Mel Bot. Nama Kamu siapa ya?",
     "Halloo " + data?.nama + " salam kenal yaaa, umur Kamu berapa?",
-    "OOOOOO " + data?.umur + " hobi kamu apa yaa?",
-    "WewWew kok bisa sama si, hobi aku juga " + data?.hobi + " btw kmu punya pacar ga??",
+    "OOOOOO " + data?.umur + ", hobi kamu apa yaa?",
+    "WewWew kok bisa sama si, hobi aku juga " + data?.hobi + ", btw kmu punya pacar ga??",
     "Owhhhhhh " + data?.pacar + ", yaudah deg kalo gitu. Makasih yaaaa...",
   ];
 };

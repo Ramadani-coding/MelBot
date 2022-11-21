@@ -17,7 +17,7 @@ Untuk Android atau IOS
 
 # Fitur
 
-Kamu bisa menjawab pertanyaan yang diberikan oleh Mel Bot. Untuk fitur-fitur lainnya kalian bisa request sajah yak.
+Kamu bisa menjawab pertanyaan yang diberikan oleh Mel Bot.
 
 # Versi
 
